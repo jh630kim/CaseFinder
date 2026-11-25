@@ -4,3 +4,11 @@ build/
 dist/
 .claude/*.local.json
 Context2/
+
+# 개발용 데이터·산출물 (저장소 밖 CaseFinder_data 사용, 실수 방지용)
+data/
+samples/
+extracted/
+*.sqlite
+*.dump
+*.log
